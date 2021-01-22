@@ -1,0 +1,6 @@
+C:\Systems\DeliberatePractice\GameOfLifeKata\bin\Debug\GameOfLifeKata.dll
+C:\Systems\DeliberatePractice\GameOfLifeKata\bin\Debug\GameOfLifeKata.pdb
+C:\Systems\DeliberatePractice\GameOfLifeKata\obj\Debug\GameOfLifeKata.csprojAssemblyReference.cache
+C:\Systems\DeliberatePractice\GameOfLifeKata\obj\Debug\GameOfLifeKata.csproj.CoreCompileInputs.cache
+C:\Systems\DeliberatePractice\GameOfLifeKata\obj\Debug\GameOfLifeKata.dll
+C:\Systems\DeliberatePractice\GameOfLifeKata\obj\Debug\GameOfLifeKata.pdb

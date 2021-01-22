@@ -1,0 +1,11 @@
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.Tests.dll
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.Tests.pdb
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.dll
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\nunit.framework.dll
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\GameOfLifeKata.pdb
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\bin\Debug\nunit.framework.xml
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.csprojAssemblyReference.cache
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.csproj.CoreCompileInputs.cache
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.csproj.CopyComplete
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.dll
+C:\Systems\DeliberatePractice\GameOfLifeKata\GameOfLifeKata.Tests\obj\Debug\GameOfLifeKata.Tests.pdb
